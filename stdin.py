@@ -6,7 +6,7 @@
 
 
 def comptage():
-    return 0 
+    return len(input()) 
     
 if __name__ == "__main__":
     print(comptage())
